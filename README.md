@@ -35,4 +35,4 @@ Hiện tại minh đang là sinh viên năm 4 ngành Công nghệ Phần mềm. 
 ---
 
 ## 📊 Thống kê GitHub
-![Man's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huynh-Minh-Man-04042004&show_icons=true&theme=tokyonight)
+![Man's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmman444&show_icons=true&theme=tokyonight)
